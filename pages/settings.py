@@ -1,0 +1,1 @@
+url_authorization_page = 'https://builder.mereplatform.com/sign-in/'
